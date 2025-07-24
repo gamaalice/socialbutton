@@ -12,7 +12,7 @@ This project features a set of social buttons with custom hover effects, providi
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 
 - **HTML5** — Semantic structure  
 - **CSS3** — Styling, transitions, and hover effects  
