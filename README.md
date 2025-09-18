@@ -31,4 +31,5 @@ This project features a set of social buttons with custom hover effects, providi
 
 ## Live Demo
 
- [Click here to view]([https://gamaalice.github.io/socialbutton/)
+[Click here to view](https://gamaalice.github.io/socialbutton/)
+
